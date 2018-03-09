@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "languagegamefrench.github.io.data.unityweb",
+"asmCodeUrl": "languagegamefrench.github.io.asm.code.unityweb",
+"asmMemoryUrl": "languagegamefrench.github.io.asm.memory.unityweb",
+"asmFrameworkUrl": "languagegamefrench.github.io.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
